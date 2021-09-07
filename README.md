@@ -1,7 +1,7 @@
 # StatisticsExamples
  Examples of Basic Statistics Using Julia
 
- These IJulia notebooks in this repository may be run without a local Julia installation as follows:
+ The IJulia notebooks in this repository may be run without a local Julia installation as follows:
 
  1. Navigate in a web browser to https://mybinder.org.
  2. Paste https://github.com/kchipeniuk/StatisticsExamples.git under "GitHub repository name or URL".
